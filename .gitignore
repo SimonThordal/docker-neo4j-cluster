@@ -1,0 +1,3 @@
+docker-cluster/core*
+docker-cluster/replica*
+docker-single/instance
